@@ -1,13 +1,31 @@
+# Byte-compiled
 __pycache__/
+*.pyc
+
+# Virtual environment
 .venv/
+venv/
+
+# IDE
 .idea/
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Project data
+Input/
 Output/
-pths/
+feedback/
 data_3cls/
 data_ebt/
-Input/
-feedback/
 _archive/
-*.pyc
+
+# Model weights
+pths/
 *.pth
 *.pt
+
+# Credentials
+login/info.json
