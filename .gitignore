@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+.idea/
+Output/
+pths/
+data_3cls/
+data_ebt/
+Input/
+feedback/
+_archive/
+*.pyc
+*.pth
+*.pt

@@ -1,0 +1,15 @@
+tensorflow
+numpy
+Pillow
+scikit-learn
+opencv-python
+pyserial
+scipy
+matplotlib
+setuptools
+requests
+tqdm
+pandas
+colour-science
+colour-checker-detection
+openpyxl
